@@ -6,3 +6,4 @@
 5-script give command to list files in long format, with user and group IDs displayed numerically (ls -lna)
 6-script describes how to create a directory inside another one (mkdir /tmp/my_first_directory
 7-script gives command to move a file from one directory to another (mv)
+8-script gives command to delete a file from directory (rm /tmp/my_first_directory)
