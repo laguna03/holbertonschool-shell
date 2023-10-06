@@ -1,2 +1,2 @@
 # holbertonschool-shell
-adding scripts to file text
+adding scripts for command
