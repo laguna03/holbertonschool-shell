@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al /basics/my_first_directory/boot
