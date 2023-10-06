@@ -9,4 +9,4 @@
 8-script gives command to delete a file from directory (rm /tmp/my_first_directory/betty)
 9-script command to delete a directory within a directory
 10-Script command to go back from one directory to previous one (cd -)
-11-script for command to see files even hidden ones ()
+11-script for command to see files even hidden ones (ls -la . .. /boot)
