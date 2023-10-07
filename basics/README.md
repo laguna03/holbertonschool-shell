@@ -12,3 +12,5 @@
 11-script for command to see files even hidden ones (ls -la . .. /boot)i
 12-script for command to see file type (file /tmp/iamafile)
 13-script for symbolic link (ln -s /bin/ls __ls__)
+14-sxript for copying html files (cp -rua *.html ..)
+15-script for moving all files with an upper case letter to a specific direcrtory in this case /tmp/u (mv [[:uppe:]]* /tmp/u
