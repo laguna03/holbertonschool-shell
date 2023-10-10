@@ -2,3 +2,4 @@
 1-Script to know what user im currently in (whoami)
 2-Script that tells the groups the user is part of (groups)
 3-Script to change file from one user to other (chown user file)
+4-Script to execute permision to the owner (chmod u+x file-name)
