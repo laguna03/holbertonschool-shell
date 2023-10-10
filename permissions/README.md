@@ -6,3 +6,5 @@
 5-Script to execute permision to the owner (chmod u+x file-name)
 6-Script to execute multiple chmod permisions to the owner and the group owner, and read permission to other users, to a file (chmod 754 file-name)
 7-Script that adds execution permission to the owner, the group owner and the other users, to the file hello (chmod ugo+x hello)
+8-Script for that sets the permission to the file hello as follows Owner: no permission at all, Group: no permission at all, Other users: all the permissions (chmod 07 file-name)
+9-script for a numeric chmod command (chmod 753 hello)
