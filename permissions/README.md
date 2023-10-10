@@ -8,3 +8,4 @@
 7-Script that adds execution permission to the owner, the group owner and the other users, to the file hello (chmod ugo+x hello)
 8-Script for that sets the permission to the file hello as follows Owner: no permission at all, Group: no permission at all, Other users: all the permissions (chmod 07 file-name)
 9-script for a numeric chmod command (chmod 753 hello)
+10-Script for making the mode of the file hello same as olleh (chmod --reference=olleh hello)
