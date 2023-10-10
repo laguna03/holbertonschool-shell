@@ -4,5 +4,5 @@
 3-Script to change file from one user to other (chown user file)
 4-Script to create empty file (touch file-name)
 5-Script to execute permision to the owner (chmod u+x file-name)
-6-Script to execute multiple chmod permisions (chmod 754 file-name)
-7-Script with type of chmod execution command (chmod u+x g+x o+x ./hello)
+6-Script to execute multiple chmod permisions to the owner and the group owner, and read permission to other users, to a file (chmod 754 file-name)
+7-Script that adds execution permission to the owner, the group owner and the other users, to the file hello (chmod 111 ./hello)
