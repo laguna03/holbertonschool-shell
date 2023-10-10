@@ -1,2 +1,3 @@
 1-Script to switch user(su user-name)
 2-Script to know what user im currently in (whoami)
+3-Scrip that tells the groups the user is part of (groups)
