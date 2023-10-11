@@ -11,3 +11,4 @@
 10-Script to delete all regular files with a .js extension in the current directory and all subfolders (find . -type f -name "*.js" -delet)
 11-Script that count number of directories and sub-directories in the current one (find -mindepth 1 -type d | -type d | wc -l)
 12-Script that displays 10 newest lines in the current directory (ls -1t | head)
+13-Script to take a list of words as input and print only words that appear exctly once (sort | uniq -u)
