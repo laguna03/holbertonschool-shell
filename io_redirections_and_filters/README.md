@@ -5,3 +5,4 @@
 4-Script to display last 10 lines of /etc/passwd (tail /etc/passwd)
 5-Script to display first 10 lines in /etc/passwd (head /etc/passwd)
 6-Script to display the third line of "iacta" (head -n 3 iacta | tail -n 1)
+7-Script that creates a file name excatly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)(echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)")
