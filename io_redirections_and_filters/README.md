@@ -14,4 +14,5 @@
 13-Script to take a list of words as input and print only words that appear exctly once (sort | uniq -u)
 14-Script is used to search for a specific string within a file in this case is root (grep "root" /etc/passwd)
 15-Scrip to count the number of users with a login shell in the /etc/passwd file(grep "bin" /etc/passwd | wc -l)
-16-Script used to search for the string root in the /etc/passwd file (grep -A3 "root" /etc/passwd)
+16-Script used to search for the string root in the /etc/passwd file (grep -A 3 "root" /etc/passwd)
+17-Scropt to display all the lines from /etc/passwd file that do not have the string "bin" (grep -v "bin" /etc/passwd)
