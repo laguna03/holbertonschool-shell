@@ -19,4 +19,4 @@
 18-Script to display lines that start in an alphabetical character (grep ^[[:alpha:]] /etc/ssh/sshd_config)
 19-Script to change letter A to Z am letter c to e (tr Ac Ze)
 20-Script to track and  delete specific character in this case "cC (tr -d cC)
-22-
+22-Script with command to extract fields from the /etc/passwd file, where fields are separated by colons (':'). Specifically, it's extracting the first and sixth fields (usernames and home directories) from the file. Then, it pipes the output to the sort command to sort the extracted data. (cut -d : -f1,6 /etc/passwd | sort
