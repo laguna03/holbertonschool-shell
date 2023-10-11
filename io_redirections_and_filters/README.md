@@ -4,3 +4,4 @@
 3-Script to display the contents of /etc/passwd and /etc/hosts (cat /etc/passwd /etc/hosts)
 4-Script to display last 10 lines of /etc/passwd (tail /etc/passwd)
 5-Script to display first 10 lines in /etc/passwd (head /etc/passwd)
+6-Script to display the third line of "iacta" (head -n 3 iacta | tail -n 1)
