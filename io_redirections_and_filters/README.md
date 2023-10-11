@@ -15,4 +15,5 @@
 14-Script is used to search for a specific string within a file in this case is root (grep "root" /etc/passwd)
 15-Scrip to count the number of users with a login shell in the /etc/passwd file(grep "bin" /etc/passwd | wc -l)
 16-Script used to search for the string root in the /etc/passwd file (grep -A 3 "root" /etc/passwd)
-17-Scropt to display all the lines from /etc/passwd file that do not have the string "bin" (grep -v "bin" /etc/passwd)
+17-Script to display all the lines from /etc/passwd file that do not have the string "bin" (grep -v "bin" /etc/passwd)
+18-Script to display lines that start in an alphabetical character (grep ^[[:alpha:]] /etc/passwd)
