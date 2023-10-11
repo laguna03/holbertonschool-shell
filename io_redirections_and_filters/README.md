@@ -16,4 +16,5 @@
 15-Scrip to count the number of users with a login shell in the /etc/passwd file(grep "bin" /etc/passwd | wc -l)
 16-Script used to search for the string root in the /etc/passwd file (grep -A 3 "root" /etc/passwd)
 17-Script to display all the lines from /etc/passwd file that do not have the string "bin" (grep -v "bin" /etc/passwd)
-18-Script to display lines that start in an alphabetical character (grep ^[[:alpha:]] /etc/passwd)
+18-Script to display lines that start in an alphabetical character (grep ^[[:alpha:]] /etc/ssh/sshd_config)
+19-Script to change letter A to Z am letter c to e (tr Ac Ze)
