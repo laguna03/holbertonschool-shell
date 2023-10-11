@@ -8,4 +8,5 @@
 7-Script that creates a file name excatly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)(echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)")
 8-Script that writes into file a result command if the file existe it should be overwritten and if not created (ls -la > "ls_cwd_content")
 9-Script to duplicate the last line of a file in this case iacta (tail -n 1 iacta >> iacta)
-10-Script to delete all regular files with a .js extension in the current directory and all subfolders (find . -type f -name "*.js" -delete
+10-Script to delete all regular files with a .js extension in the current directory and all subfolders (find . -type f -name "*.js" -delet)
+11-Script that count number of directories and sub-directories in the current one(find -mindepth 1 -type d | -type d | wc -l)
