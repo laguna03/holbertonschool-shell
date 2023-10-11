@@ -18,3 +18,6 @@
 17-Script to display all the lines from /etc/passwd file that do not have the string "bin" (grep -v "bin" /etc/passwd)
 18-Script to display lines that start in an alphabetical character (grep ^[[:alpha:]] /etc/ssh/sshd_config)
 19-Script to change letter A to Z am letter c to e (tr Ac Ze)
+20-Script to track and  delete specific character in this case "cC (tr -d cC)
+21-
+22-
