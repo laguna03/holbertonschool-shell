@@ -6,3 +6,4 @@
 5-Script to display first 10 lines in /etc/passwd (head /etc/passwd)
 6-Script to display the third line of "iacta" (head -n 3 iacta | tail -n 1)
 7-Script that creates a file name excatly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)(echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)")
+8-Script that writes into file a result command if the file existe it should be overwritten and if not created (ls -la > "ls_cwd_content)
