@@ -12,3 +12,4 @@
 11-Script that count number of directories and sub-directories in the current one (find -mindepth 1 -type d | -type d | wc -l)
 12-Script that displays 10 newest lines in the current directory (ls -1t | head)
 13-Script to take a list of words as input and print only words that appear exctly once (sort | uniq -u)
+14-Script to display the lines containing the patten root (grep "root" /etc/passwd)
