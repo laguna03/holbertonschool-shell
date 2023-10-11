@@ -14,3 +14,4 @@
 13-Script with command to change group owner (chgrp school hello)
 14-Script to change the owner and the group owner for all files and  directories(chown vincent:staff *)
 15-Script to change the owner of to 2 different owner respectively (chown -h vincent:staff _hello)
+16-Script change ownership only if it belong to specific user (chown vincent hello --from=guillaume)
