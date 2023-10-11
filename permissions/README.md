@@ -10,3 +10,4 @@
 9-script for a numeric chmod command (chmod 753 hello)
 10-Script for making the mode of the file hello same as olleh (chmod --reference=olleh hello)
 11-Script  that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. (Chmod -R a+X ./)
+12-Script to create a directory named my_dirwith numeric notation 751 in the current directory (mkdir -m 751 my_dir)
