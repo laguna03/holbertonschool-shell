@@ -12,4 +12,4 @@
 11-Script  that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. (Chmod -R a+X ./)
 12-Script to create a directory named my_dirwith numeric notation 751 in the current directory (mkdir -m 751 my_dir)
 13-Script with command to change group owner (chgrp school hello)
-14-Script to change the owner and the group owner for all files and  directories(chown vincent:staff) 
+14-Script to change the owner and the group owner for all files and  directories(chown vincent:staff *) 
