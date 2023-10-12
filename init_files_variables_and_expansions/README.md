@@ -1,2 +1,15 @@
 0-Script to create alias (alias ls="rm *")
 1-Script to print text into file (echo "hello pedrolaguna")
+2-Script to add /action to the PATH (export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/action")
+3-Script to count the number of directories in PATH (echo $PATH | tr ':' '\n'| wc -l)
+4-
+5-
+6-
+7-
+8-
+9-
+10-
+11-
+12-
+13-
+14-
