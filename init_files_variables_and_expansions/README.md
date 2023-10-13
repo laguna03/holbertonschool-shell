@@ -2,7 +2,7 @@
 1-Script to print text into file (echo "hello pedrolaguna")
 2-Script to add /action to the PATH (export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/action")
 3-Script to count the number of directories in PATH (echo $PATH | tr ':' '\n'| wc -l)
-4-
+4-Script to print lis of enviromantal variables (printenv)
 5-
 6-
 7-
