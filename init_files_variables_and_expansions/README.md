@@ -4,7 +4,7 @@
 3-Script to count the number of directories in PATH (echo $PATH | tr ':' '\n'| wc -l)
 4-Script to print lis of enviromantal variables (printenv)
 5-Script to list all local variables and environment variables and functions (set)
-6-
+6-Script to create loal variable in this example "BEST" is the name "School" is the variable (BEST="School")
 7-
 8-
 9-
