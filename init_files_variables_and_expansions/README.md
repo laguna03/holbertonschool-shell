@@ -9,7 +9,7 @@
 8-Script to create a sum equation (echo $((128+TRUEKNOWLEDGE)) )
 9-Script with division equation (echo $((POWER/DIVIDE)) )
 10-Script to multiply to the third of 4 (echo $((4**3))
-11-
+11-Script to change base to default (echo "((2#BINARY))")
 12-
 13-
 14-
