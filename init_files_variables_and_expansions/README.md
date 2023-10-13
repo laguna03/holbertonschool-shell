@@ -8,7 +8,7 @@
 7-Script to create global variables using previous examples (export BEST="School")
 8-Script to create a sum equation (echo $((128+TRUEKNOWLEDGE)) )
 9-Script with division equation (echo $((POWER/DIVIDE)) )
-10-
+10-Script to multiply to the third of 4 (echo $((4**3))
 11-
 12-
 13-
