@@ -12,4 +12,4 @@
 11-Script to change base to default (echo "((2#BINARY))")
 12-Script to exclude combinations "oo" (echo {a..z}{a..z} | tr ' ' '\n' | grep -v 'oo')
 13-Script to print a number with two decimal places, followed by a line (printf '%.2f\n' $NUM)
-14-
+14-Script to change base number (printf '%x\n' $DECIMAL)
