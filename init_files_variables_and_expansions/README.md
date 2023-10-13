@@ -5,7 +5,7 @@
 4-Script to print lis of enviromantal variables (printenv)
 5-Script to list all local variables and environment variables and functions (set)
 6-Script to create loal variable in this example "BEST" is the name "School" is the variable (BEST="School")
-7-
+7-Script to create global variables using previous examples (export BEST="School")
 8-
 9-
 10-
